@@ -7,7 +7,6 @@ It contains all challenges from a comprehensive Java course, organized by module
 ## Progress
 
 I am uploading challenges progressively.  
-Current progress: up to **"Day of the Week Challenge - Solution"**, with more coming.
 
 ## Topics Covered
 
