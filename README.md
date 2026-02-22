@@ -10,9 +10,9 @@ I am uploading challenges progressively.
 
 ## Topics Covered
 
-- Java fundamentals
-- Variables, types, and operators
-- Control structures
+- Java fundamentals ✅
+- Variables, types, and operators ✅
+- Control structures ✅
 - Object-oriented programming
 - Classes and methods
 - Arrays and collections
