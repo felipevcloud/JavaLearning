@@ -8,14 +8,14 @@ public class DataTeste {
         data1.month = 10;
         data1.year = 1997;
 
-        System.out.printf("%d/%d/%d\n", data1.day, data1.month, data1.year);
+        System.out.println(data1.formattedDate());
 
         Data data2 = new Data();
         data2.day = 6;
         data2.month = 10;
         data2.year = 2018;
 
-        System.out.printf("%d/%d/%d", data2.day, data2.month, data2.year);
+        System.out.println(data2.formattedDate());
 
 
     }
