@@ -13,9 +13,9 @@ I am uploading challenges progressively.
 - Java fundamentals ✅
 - Variables, types, and operators ✅
 - Control structures ✅
-- Object-oriented programming
-- Classes and methods
+- Classes and methods ✅
 - Arrays and collections
+- Object-oriented programming
 - Lambdas and Stream API
 - Error handling
 - Generics
