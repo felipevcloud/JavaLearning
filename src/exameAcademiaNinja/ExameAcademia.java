@@ -14,7 +14,7 @@ public class ExameAcademia {
         alunos[0] = naruto; alunos[1] = tanjiro; alunos[2] = deku; alunos[3] = gojo;  alunos[4] = sakura;
 
         for (Aluno aluno : alunos) {
-            double media = 0;
+            double media;
             System.out.println("Aluno: " + aluno.nome);
 
             media = (aluno.nota1 + aluno.nota2 + aluno.nota3)/3;
