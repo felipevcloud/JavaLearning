@@ -14,7 +14,7 @@ I am uploading challenges progressively.
 - Variables, types, and operators ✅
 - Control structures ✅
 - Classes and methods ✅
-- Arrays and collections
+- Arrays and collections ✅
 - Object-oriented programming
 - Lambdas and Stream API
 - Error handling
