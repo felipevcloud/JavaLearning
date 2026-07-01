@@ -15,7 +15,7 @@ I am uploading challenges progressively.
 - Control structures ✅
 - Classes and methods ✅
 - Arrays and collections ✅
-- Object-oriented programming
+- Object-oriented programming ✅
 - Lambdas and Stream API
 - Error handling
 - Generics
